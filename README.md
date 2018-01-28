@@ -19,6 +19,11 @@ Runs a development server at https://localhost:1337.
 npm start
 ```
 
+<div id="develop"></div>
+
+### 3. Develop in VS Code
+Execute with VS code debugger.
+
 **Important:** Configure in config.js the connection for your bd:
 
 ```javascript

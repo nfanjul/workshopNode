@@ -24,6 +24,8 @@ npm start
 ### 3. Develop in VS Code
 Execute with VS code debugger.
 
+---
+
 **Important:** Configure in config.js the connection for your bd:
 
 ```javascript

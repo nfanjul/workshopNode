@@ -1,5 +1,14 @@
-# workshopNode
-Workshop nodejs
+# Workshop Nodejs
+
+This example include an API with a basic CRUD. Integration with a AzureSQL.
+
+1. Create server in server.js file.
+2. Create routing in separate file for any endpoints.
+3. Create controllers for recibe the request.
+4. Create a service with integration with AzureSQL use package "mssql".
+5. Create a config file with params to connection BD.
+
+This example is developed with ECMAScript 5.
 
 <div id="installation"></div>
 

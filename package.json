@@ -1,7 +1,7 @@
 {
-  "name": "mataro",
+  "name": "workshopnodejs",
   "version": "0.0.1",
-  "description": "Mataro",
+  "description": "Workshop Nodejs + AzureSQL",
   "main": "server.js",
   "author": {
     "name": "nfanjul"
